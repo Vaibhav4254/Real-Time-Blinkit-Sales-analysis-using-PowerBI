@@ -34,7 +34,7 @@
 4. **DAX (Data Analysis Expressions):**
    - For creating measures and calculated columns to analyze data in Power BI.
   
-6. *Data Analysis:*
+6. **Data Analysis:**
    - To interpret sales trends, patterns, and anomalies.
   
 7. **Visualization Tools (Optional):**
